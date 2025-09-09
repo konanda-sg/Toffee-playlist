@@ -43,13 +43,6 @@
   },
   {
     "category_name": "Sports",
-    "name": "PSL Highlights",
-    "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ns04LZYBtpl-Sbt7yKqD/posters/fef0cade-0663-4fc7-afb3-7a0b7469d045.png",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/psl_highlights/playlist.m3u8",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1752670677:KeyName=prod_linear:Signature=yXVRoqzRnTGkdXFP0V4gs99UE1SafYRZ0cG96YAr80NZRHhqhxpGzgxoOfWLam3ynkQAksPKjHZMd2NV8Tm7Dw"
-  },
-  {
-    "category_name": "Sports",
     "name": "ICC Test Championship Highlights",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/PnZefJcBcqxnFHJBoxca/posters/14699162-6ec8-4a94-a572-2795c6ddd329.png",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/icc_wtc_final/playlist.m3u8",
